@@ -184,13 +184,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="je9AxxynNqr57Z2h_HMl-63" value="&lt;b&gt;&lt;u&gt;NEW CUSTOMER ONBOARDING&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="33" y="-1116" width="239" height="30" as="geometry" />
+          <mxGeometry x="33" y="-1124" width="239" height="30" as="geometry" />
         </mxCell>
         <mxCell id="je9AxxynNqr57Z2h_HMl-64" value="&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;&lt;u&gt;Stored in SQLTable:&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;RDS Instance Name&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;Database Name&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;S3 Bucket&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="49.63" y="-662" width="202" height="81" as="geometry" />
         </mxCell>
         <mxCell id="je9AxxynNqr57Z2h_HMl-66" value="&lt;b&gt;&lt;u&gt;NEW CUSTOMER ONBOARDING&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="441.42" y="-1120" width="239" height="30" as="geometry" />
+          <mxGeometry x="438.12" y="-1129" width="239" height="30" as="geometry" />
         </mxCell>
         <mxCell id="je9AxxynNqr57Z2h_HMl-69" value="&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;&lt;u&gt;Stored in SQLTable:&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;RDS Instance Name&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;Database Name&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;S3 Bucket&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="454.67" y="-664" width="202" height="81" as="geometry" />
