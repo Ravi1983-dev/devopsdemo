@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1123" dy="607" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1123" dy="1776" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -179,12 +179,18 @@
         </mxCell>
         <mxCell id="je9AxxynNqr57Z2h_HMl-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="649" as="sourcePoint" />
-            <mxPoint x="560" y="720" as="targetPoint" />
+            <mxPoint x="552.79" y="647" as="sourcePoint" />
+            <mxPoint x="552.79" y="718" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="je9AxxynNqr57Z2h_HMl-63" value="&lt;b&gt;&lt;u&gt;NEW CUSTOMER ONBOARDING&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="35.08" y="6" width="239" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="je9AxxynNqr57Z2h_HMl-64" value="&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;RDS Instance Name&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;Database Name&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;S3 Bucket&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="303.33000000000004" y="503" width="182" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="je9AxxynNqr57Z2h_HMl-66" value="&lt;b&gt;&lt;u&gt;NEW CUSTOMER ONBOARDING&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="443.5" y="-4" width="239" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
