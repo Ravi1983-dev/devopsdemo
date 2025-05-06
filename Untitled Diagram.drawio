@@ -7,7 +7,7 @@
         <mxCell id="je9AxxynNqr57Z2h_HMl-0" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="334" y="43" width="88" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="je9AxxynNqr57Z2h_HMl-1" value="Customer Name: TOYOTA&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Environment:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PROD/DEV&lt;/div&gt;&lt;div&gt;AWS Region:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; us-west2&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=29.66668701171875;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="je9AxxynNqr57Z2h_HMl-1" value="Customer Name: TOYOTA&lt;div&gt;Environment:&amp;nbsp; &amp;nbsp; &amp;nbsp;PROD&lt;/div&gt;&lt;div&gt;AWS Region:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; us-west2&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=29.66668701171875;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="264" y="102" width="216" height="66" as="geometry" />
         </mxCell>
       </root>
