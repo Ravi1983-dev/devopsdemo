@@ -11,7 +11,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VFL3uQMcEtcBioqYhcLW-0" value="" style="swimlane;startSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="77" y="-1088" width="703" height="924" as="geometry" />
+          <mxGeometry x="77" y="-1088" width="703" height="817" as="geometry" />
         </mxCell>
         <mxCell id="je9AxxynNqr57Z2h_HMl-63" value="&lt;font&gt;NEW CUSTOMER ONBOARDING&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#FF0000;fontStyle=4" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
           <mxGeometry x="271" y="14" width="239" height="30" as="geometry" />
