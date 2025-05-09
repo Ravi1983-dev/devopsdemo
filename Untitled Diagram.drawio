@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.3.0">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="655" dy="1495" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="1523" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -96,12 +96,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VFL3uQMcEtcBioqYhcLW-0" value="" style="swimlane;startSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="22" y="-1123" width="703" height="690" as="geometry" />
+          <mxGeometry x="39" y="-1126" width="703" height="690" as="geometry" />
         </mxCell>
         <mxCell id="je9AxxynNqr57Z2h_HMl-63" value="&lt;b&gt;&lt;u&gt;NEW CUSTOMER ONBOARDING&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
           <mxGeometry x="47" width="239" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="03Nf8ufArOnwDEbTAGEy-0" value="Security: AWS Secret Manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
+        <mxCell id="03Nf8ufArOnwDEbTAGEy-0" value="Security: AWS Secret Manager&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;GitHub Access Token&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
           <mxGeometry x="456" y="17" width="233" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VFL3uQMcEtcBioqYhcLW-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.45;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="je9AxxynNqr57Z2h_HMl-0" target="je9AxxynNqr57Z2h_HMl-1" edge="1">
