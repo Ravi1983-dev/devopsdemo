@@ -13,7 +13,7 @@
         <mxCell id="VFL3uQMcEtcBioqYhcLW-0" value="" style="swimlane;startSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="77" y="-1088" width="703" height="924" as="geometry" />
         </mxCell>
-        <mxCell id="je9AxxynNqr57Z2h_HMl-63" value="&lt;font&gt;NEW CUSTOMER ONBOARDING&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#FF0000;" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
+        <mxCell id="je9AxxynNqr57Z2h_HMl-63" value="&lt;font&gt;NEW CUSTOMER ONBOARDING&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#FF0000;fontStyle=4" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
           <mxGeometry x="271" y="14" width="239" height="30" as="geometry" />
         </mxCell>
         <mxCell id="03Nf8ufArOnwDEbTAGEy-0" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Security Layer&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;AWS Secret Manager&lt;div&gt;GitHub Access Token&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;IAM Policy&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
