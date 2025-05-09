@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.3.0">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1038" dy="1523" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="655" dy="1495" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -75,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VFL3uQMcEtcBioqYhcLW-0" value="" style="swimlane;startSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="59" y="-1119" width="703" height="690" as="geometry" />
+          <mxGeometry x="90" y="-1121" width="703" height="690" as="geometry" />
         </mxCell>
         <mxCell id="je9AxxynNqr57Z2h_HMl-63" value="&lt;b&gt;&lt;u&gt;NEW CUSTOMER ONBOARDING&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
           <mxGeometry x="47" width="239" height="30" as="geometry" />
@@ -116,11 +116,17 @@
             <mxPoint x="354" y="307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="je9AxxynNqr57Z2h_HMl-64" value="&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;&lt;u&gt;Stored in SQLTable:&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;RDS Instance Name&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;Database Name&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;S3 Bucket&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="324" y="-646" width="132.92" height="81" as="geometry" />
+        <mxCell id="je9AxxynNqr57Z2h_HMl-64" value="&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;&lt;u&gt;Stored in SQLTable:&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;RDS Instance Name&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;Database Name&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(231, 13, 79), rgb(237, 237, 237));&quot;&gt;S3 Bucket&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
+          <mxGeometry x="256" y="567" width="132.92" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="VFL3uQMcEtcBioqYhcLW-10" value="" style="swimlane;startSize=0;fontColor=#FF3E29;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="-639" width="137" height="73" as="geometry" />
+        <mxCell id="03Nf8ufArOnwDEbTAGEy-3" value="Backup (each RDS and each DB inside RDS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
+          <mxGeometry x="281" y="465" width="244" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nf8ufArOnwDEbTAGEy-4" value="Index Rebuild" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
+          <mxGeometry x="244.92000000000002" y="489" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="03Nf8ufArOnwDEbTAGEy-5" value="Statistics Update" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
+          <mxGeometry x="268" y="520" width="118" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
