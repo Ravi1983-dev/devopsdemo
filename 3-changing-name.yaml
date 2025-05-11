@@ -4,4 +4,4 @@ Resources:
     Type: AWS::S3::Bucket
     Properties:
       AccessControl: Private
-      BucketName: "insert-some-random-string-here-12345233"
+      BucketName: "dvg-12345233"
