@@ -16,14 +16,14 @@
         <mxCell id="je9AxxynNqr57Z2h_HMl-63" value="&lt;font&gt;NEW CUSTOMER ONBOARDING&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#FF0000;fontStyle=4" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
           <mxGeometry x="271" y="14" width="239" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="03Nf8ufArOnwDEbTAGEy-0" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Security Layer&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;AWS Secret Manager&lt;div&gt;GitHub Access Token&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;IAM Policy&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
+        <mxCell id="03Nf8ufArOnwDEbTAGEy-0" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Security Layer&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;AWS Secret Manager&lt;div&gt;Stash Access Token&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;IAM Policy&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
           <mxGeometry x="454" y="90.13" width="233" height="30" as="geometry" />
         </mxCell>
         <mxCell id="je9AxxynNqr57Z2h_HMl-3" value="Restore TemplateDB&lt;div&gt;(Stored in S3)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
           <mxGeometry x="355" y="269" width="76" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="je9AxxynNqr57Z2h_HMl-6" value="&lt;b&gt;&lt;u&gt;DBName&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;BDATDPDB01_isource&lt;/span&gt;&lt;/div&gt;&lt;div&gt;isource Login&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
-          <mxGeometry x="231" y="320" width="124" height="33" as="geometry" />
+        <mxCell id="je9AxxynNqr57Z2h_HMl-6" value="&lt;b&gt;&lt;u&gt;DBName&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;DB Name:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BDATDPDB01&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;Login: BDATDPDB01_isource&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
+          <mxGeometry x="215.29" y="344" width="185" height="18" as="geometry" />
         </mxCell>
         <mxCell id="je9AxxynNqr57Z2h_HMl-47" value="Custmer Specific Bucket&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
           <mxGeometry x="283" y="404" width="150" height="30" as="geometry" />
