@@ -19,9 +19,6 @@
         <mxCell id="03Nf8ufArOnwDEbTAGEy-0" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;Security Layer&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;AWS Secret Manager&lt;div&gt;Stash Access Token&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;IAM Policy&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
           <mxGeometry x="454" y="90.13" width="233" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="je9AxxynNqr57Z2h_HMl-3" value="Restore TemplateDB&lt;div&gt;(Stored in S3)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
-          <mxGeometry x="355" y="269" width="76" height="77" as="geometry" />
-        </mxCell>
         <mxCell id="je9AxxynNqr57Z2h_HMl-6" value="&lt;b&gt;&lt;u&gt;DBName&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;DB Name:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BDATDPDB01&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;Login: BDATDPDB01_isource&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
           <mxGeometry x="215.29" y="344" width="185" height="18" as="geometry" />
         </mxCell>
@@ -94,10 +91,10 @@
             <mxPoint x="175" y="608" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="je9AxxynNqr57Z2h_HMl-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.382;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.971;exitY=0.401;exitDx=0;exitDy=0;exitPerimeter=0;" parent="VFL3uQMcEtcBioqYhcLW-0" source="je9AxxynNqr57Z2h_HMl-19" target="je9AxxynNqr57Z2h_HMl-3" edge="1">
+        <mxCell id="je9AxxynNqr57Z2h_HMl-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.382;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.971;exitY=0.401;exitDx=0;exitDy=0;exitPerimeter=0;" parent="VFL3uQMcEtcBioqYhcLW-0" source="je9AxxynNqr57Z2h_HMl-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="303" y="236" as="sourcePoint" />
-            <mxPoint x="239.92000000000002" y="192" as="targetPoint" />
+            <mxPoint x="405" y="286.69903999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="03Nf8ufArOnwDEbTAGEy-19" value="&lt;b&gt;&lt;u&gt;Run DB Maintenance Jobs&lt;/u&gt;&lt;/b&gt;&lt;div&gt;Backup Job (per DB/RDS)&lt;/div&gt;&lt;div&gt;Statistics Update&lt;b&gt;&lt;u&gt;&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Index Rebuild&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
@@ -105,6 +102,9 @@
         </mxCell>
         <mxCell id="LaWH5NQ4zHLPba7Nca_Z-0" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;p&gt;&lt;b&gt;&lt;u&gt;DBs to be backed up&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;BDATDPDB01&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BDATDPDB01_AA&lt;/span&gt;&lt;/p&gt;&lt;p&gt;BDATDPDB01_BB&lt;/p&gt;&lt;p&gt;BDATDPDB01_CC&lt;/p&gt;&lt;p&gt;BDATDPDB01_DD&lt;/p&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
           <mxGeometry x="506" y="469" width="135" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LaWH5NQ4zHLPba7Nca_Z-6" value="Restore TemplateDB&lt;div&gt;(Stored in S3 or Stash)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
+          <mxGeometry x="441" y="224" width="98" height="99" as="geometry" />
         </mxCell>
         <mxCell id="03Nf8ufArOnwDEbTAGEy-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="03Nf8ufArOnwDEbTAGEy-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
