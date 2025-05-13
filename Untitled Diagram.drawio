@@ -6,12 +6,12 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="je9AxxynNqr57Z2h_HMl-22" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="je9AxxynNqr57Z2h_HMl-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="221" y="-660" as="sourcePoint" />
+            <mxPoint x="230" y="-720" as="sourcePoint" />
             <mxPoint x="221.92" y="-728" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VFL3uQMcEtcBioqYhcLW-0" value="" style="swimlane;startSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="47" y="-1075" width="722" height="1018" as="geometry" />
+          <mxGeometry x="53" y="-1135" width="722" height="1018" as="geometry" />
         </mxCell>
         <mxCell id="je9AxxynNqr57Z2h_HMl-63" value="&lt;font&gt;NEW CUSTOMER ONBOARDING&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#FF0000;fontStyle=4" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
           <mxGeometry x="271" y="14" width="239" height="30" as="geometry" />
@@ -85,7 +85,7 @@
         <mxCell id="je9AxxynNqr57Z2h_HMl-85" value="&lt;b&gt;Master RDS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
           <mxGeometry x="142.29" y="650" width="77.18" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="je9AxxynNqr57Z2h_HMl-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="VFL3uQMcEtcBioqYhcLW-0" source="je9AxxynNqr57Z2h_HMl-7" edge="1">
+        <mxCell id="je9AxxynNqr57Z2h_HMl-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.389;entryY=0.141;entryDx=0;entryDy=0;entryPerimeter=0;" parent="VFL3uQMcEtcBioqYhcLW-0" source="je9AxxynNqr57Z2h_HMl-7" edge="1" target="je9AxxynNqr57Z2h_HMl-85">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="55.91999999999999" y="396" as="sourcePoint" />
             <mxPoint x="175" y="608" as="targetPoint" />
@@ -101,7 +101,7 @@
           <mxGeometry x="307" y="546" width="172" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LaWH5NQ4zHLPba7Nca_Z-0" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;p&gt;&lt;b&gt;&lt;u&gt;DBs to be backed up&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;BDATDPDB01&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BDATDPDB01_AA&lt;/span&gt;&lt;/p&gt;&lt;p&gt;BDATDPDB01_BB&lt;/p&gt;&lt;p&gt;BDATDPDB01_CC&lt;/p&gt;&lt;p&gt;BDATDPDB01_DD&lt;/p&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
-          <mxGeometry x="519" y="556" width="135" height="20" as="geometry" />
+          <mxGeometry x="361" y="723" width="135" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LaWH5NQ4zHLPba7Nca_Z-6" value="Restore TemplateDB&lt;div&gt;(Stored in S3 or Stash)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
           <mxGeometry x="405" y="237" width="98" height="99" as="geometry" />
@@ -111,7 +111,7 @@
         </mxCell>
         <mxCell id="03Nf8ufArOnwDEbTAGEy-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="03Nf8ufArOnwDEbTAGEy-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="222" y="-510" as="sourcePoint" />
+            <mxPoint x="228" y="-571" as="sourcePoint" />
             <mxPoint x="380" y="-540.5" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
