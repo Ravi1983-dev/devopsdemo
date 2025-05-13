@@ -20,7 +20,7 @@
           <mxGeometry x="454" y="90.13" width="233" height="14" as="geometry" />
         </mxCell>
         <mxCell id="je9AxxynNqr57Z2h_HMl-6" value="&lt;b&gt;&lt;u&gt;DBName&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;DB Name:&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BDATDPDB01&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;Login: BDATDPDB01_isource (SecretServer)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
-          <mxGeometry x="215.29" y="344" width="185" height="2" as="geometry" />
+          <mxGeometry x="242" y="335" width="185" height="2" as="geometry" />
         </mxCell>
         <mxCell id="je9AxxynNqr57Z2h_HMl-47" value="Custmer Specific Bucket&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
           <mxGeometry x="283" y="404" width="150" height="14" as="geometry" />
@@ -121,7 +121,7 @@
         <mxCell id="03Nf8ufArOnwDEbTAGEy-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="239" y="-1674" as="sourcePoint" />
-            <mxPoint x="390" y="-1721" as="targetPoint" />
+            <mxPoint x="373" y="-1714" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
