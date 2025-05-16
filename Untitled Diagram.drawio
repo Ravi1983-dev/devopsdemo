@@ -133,6 +133,9 @@
         <mxCell id="LaWH5NQ4zHLPba7Nca_Z-65" value="&lt;font style=&quot;color: rgb(0, 102, 0);&quot;&gt;secure, performant, resilient, and cost-efficient,&amp;nbsp;while also integrating it smoothly into the broader cloud ecosystem&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
           <mxGeometry x="33" y="1007" width="324" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LaWH5NQ4zHLPba7Nca_Z-66" value="&lt;font style=&quot;color: light-dark(rgb(187, 27, 27), rgb(237, 237, 237)); font-size: 14px;&quot;&gt;Performance Insight Analysis&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
+          <mxGeometry x="488.5" y="986" width="265" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="03Nf8ufArOnwDEbTAGEy-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="je9AxxynNqr57Z2h_HMl-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="254" y="-1674" as="sourcePoint" />
