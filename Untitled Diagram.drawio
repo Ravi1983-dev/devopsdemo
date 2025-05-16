@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1347" dy="2897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1109" dy="2798" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="VFL3uQMcEtcBioqYhcLW-0" value="" style="swimlane;startSize=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="33" y="-2243" width="877" height="1049" as="geometry" />
+          <mxGeometry x="16" y="-2234" width="877" height="1049" as="geometry" />
         </mxCell>
         <mxCell id="je9AxxynNqr57Z2h_HMl-63" value="&lt;font&gt;NEW TENANT ONBOARDING&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#FF0000;fontStyle=4" parent="VFL3uQMcEtcBioqYhcLW-0" vertex="1">
           <mxGeometry x="271" y="14" width="239" height="14" as="geometry" />
@@ -91,7 +91,7 @@
         <mxCell id="LaWH5NQ4zHLPba7Nca_Z-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-15;exitPerimeter=0;" edge="1" parent="VFL3uQMcEtcBioqYhcLW-0" source="LaWH5NQ4zHLPba7Nca_Z-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="361" y="368" as="sourcePoint" />
-            <mxPoint x="202" y="427" as="targetPoint" />
+            <mxPoint x="214" y="427" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LaWH5NQ4zHLPba7Nca_Z-17" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
@@ -115,36 +115,36 @@
         <mxCell id="LaWH5NQ4zHLPba7Nca_Z-23" value="&lt;font style=&quot;color: light-dark(rgb(187, 27, 27), rgb(237, 237, 237)); font-size: 14px;&quot;&gt;How to track RDS and Number of DBs per Tenant?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
           <mxGeometry x="435" y="190.99999999999997" width="372" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LaWH5NQ4zHLPba7Nca_Z-26" value="&lt;font style=&quot;color: light-dark(rgb(187, 27, 27), rgb(237, 237, 237)); font-size: 14px;&quot;&gt;Monitoring PRTG? Permissions required&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
-          <mxGeometry x="504" y="658" width="265" height="30" as="geometry" />
+        <mxCell id="LaWH5NQ4zHLPba7Nca_Z-26" value="&lt;font style=&quot;color: light-dark(rgb(187, 27, 27), rgb(237, 237, 237)); font-size: 14px;&quot;&gt;Monitoring PRTG? DT? Permissions required&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
+          <mxGeometry x="504" y="658" width="314" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LaWH5NQ4zHLPba7Nca_Z-27" value="&lt;font style=&quot;color: light-dark(rgb(187, 27, 27), rgb(237, 237, 237)); font-size: 14px;&quot;&gt;MasterUserName and MasterPassword: dbadmin&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
+        <mxCell id="LaWH5NQ4zHLPba7Nca_Z-27" value="&lt;font style=&quot;color: light-dark(rgb(187, 27, 27), rgb(237, 237, 237)); font-size: 14px;&quot;&gt;MasterUserName and MasterPassword&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
           <mxGeometry x="454" y="261.78" width="328" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LaWH5NQ4zHLPba7Nca_Z-28" value="&lt;font style=&quot;color: light-dark(rgb(187, 27, 27), rgb(237, 237, 237)); font-size: 14px;&quot;&gt;Should we run DB Maintenance Jobs? Jenkins during Onabord time&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
-          <mxGeometry x="468" y="881" width="314" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LaWH5NQ4zHLPba7Nca_Z-29" value="&lt;font style=&quot;color: light-dark(rgb(187, 27, 27), rgb(237, 237, 237)); font-size: 14px;&quot;&gt;Where to place the EndPoint&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
-          <mxGeometry x="492.5" y="940" width="265" height="30" as="geometry" />
+          <mxGeometry x="308" y="933" width="314" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LaWH5NQ4zHLPba7Nca_Z-64" value="&lt;font style=&quot;color: light-dark(rgb(187, 27, 27), rgb(237, 237, 237)); font-size: 14px;&quot;&gt;Where to place the EndPoint&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
-          <mxGeometry x="479" y="822" width="265" height="30" as="geometry" />
+          <mxGeometry x="189" y="970" width="265" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LaWH5NQ4zHLPba7Nca_Z-65" value="&lt;font style=&quot;color: rgb(0, 102, 0);&quot;&gt;secure, performant, resilient, and cost-efficient,&amp;nbsp;while also integrating it smoothly into the broader cloud ecosystem&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
           <mxGeometry x="33" y="1007" width="324" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LaWH5NQ4zHLPba7Nca_Z-66" value="&lt;font style=&quot;color: light-dark(rgb(187, 27, 27), rgb(237, 237, 237)); font-size: 14px;&quot;&gt;Performance Insight Analysis&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
-          <mxGeometry x="488.5" y="986" width="265" height="30" as="geometry" />
+          <mxGeometry x="584" y="1000" width="265" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LaWH5NQ4zHLPba7Nca_Z-70" value="&lt;font style=&quot;color: light-dark(rgb(187, 27, 27), rgb(237, 237, 237)); font-size: 14px;&quot;&gt;Patching &amp;amp; Maintenance: Scheduling/managing patches and minor version upgrades &amp;amp; Test App Compatibility&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
           <mxGeometry x="483" y="701" width="370" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="03Nf8ufArOnwDEbTAGEy-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="je9AxxynNqr57Z2h_HMl-17" edge="1">
+        <mxCell id="03Nf8ufArOnwDEbTAGEy-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="VFL3uQMcEtcBioqYhcLW-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="254" y="-1674" as="sourcePoint" />
-            <mxPoint x="373" y="-1714" as="targetPoint" />
+            <mxPoint x="217.27" y="555" as="sourcePoint" />
+            <mxPoint x="328.9997297297293" y="568" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LaWH5NQ4zHLPba7Nca_Z-71" value="&lt;font style=&quot;color: light-dark(rgb(187, 27, 27), rgb(237, 237, 237)); font-size: 14px;&quot;&gt;Bucket Replication to Other Region&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VFL3uQMcEtcBioqYhcLW-0">
+          <mxGeometry x="515.5" y="599" width="265" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LaWH5NQ4zHLPba7Nca_Z-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LaWH5NQ4zHLPba7Nca_Z-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
