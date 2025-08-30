@@ -1,2 +1,0 @@
-This is my first Git repo
-my second commit
